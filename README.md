@@ -1,0 +1,23 @@
+# The Wayward Kite
+
+Welcome to the official GitHub repository for "The Wayward Kite", an award-winning animated short directed by Yuting Hsueh. This film beautifully explores themes of freedom and self-discovery through the journey of a wayward kite. Enjoy a deep dive into the creative process and additional content related to the film.
+
+## Watch the Film
+[![Watch The Wayward Kite](https://github.com/hsuehyt/theWaywardKite/blob/main/thumb.png)](https://vimeo.com/yutinghsueh)
+
+## Trailer
+Watch the trailer here:
+[![Watch the Trailer](https://img.youtube.com/vi/k7eGml2G6ZI/0.jpg)](https://youtu.be/k7eGml2G6ZI?feature=shared)
+
+## IMDb Page
+For more details and reviews, visit the [IMDb page](https://www.imdb.com/video/vi627554585).
+
+## Connect
+- [Vimeo](https://vimeo.com/yutinghsueh)
+- [GitHub](https://github.com/hsuehyt)
+
+## Contributing
+Feel free to submit issues or pull requests if you have feedback or suggestions regarding the film or this repository.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
